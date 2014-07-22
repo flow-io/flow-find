@@ -1,6 +1,6 @@
 {
   "name": "flow-find",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Transform stream which filters stream data according to user-defined conditions.",
   "author": {
     "name": "Athan Reines",
