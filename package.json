@@ -18,7 +18,7 @@
   "main": "./lib",
   "repository": {
     "type": "git",
-    "url": "git://github.com/kgryte/flow-find.git"
+    "url": "git://github.com/flow-io/flow-find.git"
   },
   "keywords": [
     "stream",
@@ -32,7 +32,7 @@
     "find"
   ],
   "bugs": {
-    "url": "https://github.com/kgryte/flow-find/issues"
+    "url": "https://github.com/flow-io/flow-find/issues"
   },
   "dependencies": {
     "through": "~2.3.4"
